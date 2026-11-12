@@ -1,127 +1,386 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Sayyaf+Anwar+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sayyafanwar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </p>
+# 👨‍💻 سياف انور القرضي 
 
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+### مطور برمجيات | Web & Mobile Developer
+
+**أبني تطبيقات ويب وموبايل حديثة، وأهتم بتصميم الـBackend والـRESTful API وكتابة كود قابل للتطوير والصيانة.**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=laravel,react,flutter,tailwind,php,ts,dart,mysql,git,github" />
+
+<br><br>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 </div>
 
-<br/>
+---
 
-## 👋 من أنا؟ | About Me
+## 👋 من أنا؟
 
-أنا <b>سيف أنور</b>، مطور برمجيات Full-Stack شغوف ببناء تطبيقات حديثة، أنظمة قابلة للتوسع، وحل المشكلات التقنية بطرق عملية وفعالة.
+أنا **شهاب الصارم**، مطور برمجيات مهتم ببناء الأنظمة والتطبيقات الحديثة.
 
-- 🔭 أعمل حاليًا على تطوير تطبيقات ويب وموبايل متكاملة.
-- 🌱 أتعلم باستمرار التقنيات الحديثة في مجالات الـ Backend و Frontend و Mobile.
-- 💬 أستطيع مساعدتك في: Laravel, React, Flutter, REST APIs
-- ⚡ أحب التحديات البرمجية وأؤمن بأن الكود الجيد هو كود سهل القراءة، سهل الصيانة، وقابل للتطوير.
-- 🎯 هدفي: بناء منتجات رقمية تؤثر إيجابيًا في حياة المستخدمين وتساهم في نجاح الأعمال.
+أعمل بشكل أساسي على **Laravel** لتطوير الـBackend، و**React** لتطوير واجهات الويب، و**Flutter** لبناء تطبيقات الموبايل، مع استخدام **RESTful API** لربط الأنظمة المختلفة.
 
-<br/>
+أهتم أيضًا بتصميم قواعد البيانات باستخدام **MySQL**، وكتابة كود منظم وقابل للتطوير، مع تطبيق مفاهيم مثل `MVC` و`OOP` و`SOLID` و`Clean Code`.
 
-## 🛠️ Tech Stack | مهاراتي
+```text
+                👨‍💻 شهاب الصارم
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+        ▼              ▼              ▼
+     Backend        Frontend        Mobile
+        │              │              │
+    Laravel          React          Flutter
+        │              │              │
+        └──────────────┼──────────────┘
+                       │
+                       ▼
+                 RESTful API
+                       │
+                       ▼
+                     MySQL
+```
 
-<div align="center">
+---
 
-### 👨‍💻 Backend
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+## 🛠️ التقنيات التي أعمل بها
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=laravel,php" />
+
+- `Laravel`
+- `PHP`
+- `RESTful API`
+- `MVC`
+- `Eloquent ORM`
+- `Authentication`
+- `Authorization`
+- `Middleware`
+- `Validation`
+- `CRUD`
+- `API Resources`
+
+---
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,html,css,javascript" />
+
+- `React`
+- `TypeScript`
+- `JavaScript`
+- `Tailwind CSS`
+- `HTML`
+- `CSS`
+- `Responsive Design`
+
+---
 
 ### 📱 Mobile
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 
-### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+
+- `Flutter`
+- `Dart`
+- `GetX`
+- `SQLite`
+- `Firebase`
+
+---
+
+### 🗄️ قواعد البيانات
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+أستخدم **MySQL** في تصميم وإدارة قواعد البيانات، مع الاهتمام بـ:
+
+`Database Design` • `Relationships` • `Migrations` • `Eloquent ORM` • `Queries` • `Indexes`
+
+---
+
+### 🔧 أدوات التطوير
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
 
-</div>
+`Git` • `GitHub` • `VS Code` • `Postman` • `Docker` • `Linux`
 
-<br/>
+---
 
-## 📊 GitHub Stats | إحصائياتي
+# 🧩 ماذا أستطيع بناء؟
+
+### 🌐 تطبيقات الويب
+
+باستخدام:
+
+`Laravel` + `React` + `Tailwind CSS`
+
+مثل:
+
+- أنظمة الإدارة
+- أنظمة العيادات
+- لوحات التحكم
+- أنظمة الحجز
+- أنظمة إدارة المستخدمين
+- تطبيقات الأعمال
+
+---
+
+### 📱 تطبيقات الموبايل
+
+باستخدام:
+
+`Flutter` + `Dart`
+
+مع إمكانية ربط التطبيق بـ:
+
+`RESTful API` → `Laravel` → `MySQL`
+
+---
+
+### 🔌 RESTful API
+
+أعمل على بناء APIs منظمة يمكن استخدامها من:
+
+```text
+React
+   │
+   ├──────────────┐
+   │              │
+Flutter        Web App
+   │              │
+   └──────┬───────┘
+          ▼
+    RESTful API
+          │
+          ▼
+       Laravel
+          │
+          ▼
+        MySQL
+```
+
+---
+
+# 🏗️ طريقة تفكيري في بناء الأنظمة
+
+لا أركز فقط على كتابة الكود، بل أهتم بفهم النظام قبل تنفيذه.
+
+```text
+المشكلة
+   ↓
+تحليل المتطلبات
+   ↓
+تصميم النظام
+   ↓
+Database Design
+   ↓
+Backend Architecture
+   ↓
+RESTful API
+   ↓
+Frontend / Mobile
+   ↓
+Testing
+   ↓
+Deployment
+```
+
+---
+
+# 🔐 Backend & Security
+
+أهتم ببناء Backend منظم وآمن باستخدام مفاهيم مثل:
+
+- `Authentication`
+- `Authorization`
+- `Sanctum`
+- `Middleware`
+- `Validation`
+- `Policies`
+- `Form Requests`
+- `Password Hashing`
+- `Role-Based Access Control`
+- `API Security`
+
+---
+
+# 🧠 مفاهيم البرمجة
+
+أعمل على تطبيق المفاهيم البرمجية في المشاريع العملية، ومنها:
+
+```text
+OOP
+ │
+ ├── Classes & Objects
+ ├── Encapsulation
+ ├── Inheritance
+ ├── Polymorphism
+ └── Abstraction
+
+SOLID
+ │
+ ├── Single Responsibility
+ ├── Open/Closed
+ ├── Liskov Substitution
+ ├── Interface Segregation
+ └── Dependency Inversion
+```
+
+وأهتم كذلك بـ:
+
+`Clean Code` • `Design Patterns` • `MVC` • `Separation of Concerns` • `DRY`
+
+---
+
+# 🚀 بعض المشاريع
+
+## 🏥 Smart Clinic
+
+نظام لإدارة العيادات يهدف إلى تنظيم العمليات الأساسية داخل العيادة.
+
+**التقنيات:**
+
+`Laravel` • `MySQL` • `Tailwind CSS`
+
+**يتضمن:**
+
+- إدارة المرضى
+- إدارة الأطباء
+- المواعيد
+- المستخدمين والصلاحيات
+- الفواتير
+- لوحة التحكم
+- Authentication & Authorization
+
+---
+
+## 🏥 RuralHealth AI
+
+منصة للرعاية الصحية الريفية تعتمد على **AI** للمساعدة في التقييم الأولي للحالة، مع إمكانية التواصل مع الأطباء.
+
+**التقنيات:**
+
+`Laravel` • `React` • `Flutter` • `FastAPI` • `MySQL` • `RESTful API`
+
+**الفكرة المعمارية:**
+
+```text
+       Flutter
+          │
+          │
+       React
+          │
+          ▼
+    RESTful API
+          │
+          ▼
+       Laravel
+       /     \
+      /       \
+     ▼         ▼
+  MySQL      AI Service
+```
+
+> الهدف من النظام هو مساعدة المستخدم في الحصول على تقييم أولي وإرشادات، وليس استبدال الطبيب.
+
+---
+
+# 📚 ما أتعلمه وأطوره حاليًا
+
+أعمل باستمرار على تطوير معرفتي في:
+
+- 🏗️ Software Architecture
+- 🔌 RESTful API
+- 🔐 Authentication & Authorization
+- 🧩 Design Patterns
+- 🧠 SOLID Principles
+- 🗄️ Database Design
+- ⚡ Performance
+- 🧪 Testing
+- 🐳 Docker
+- 🚀 Deployment
+
+---
+
+# 💡 فلسفتي في البرمجة
+
+```text
+لا أريد فقط أن أعرف "كيف أكتب الكود"
+
+بل أريد أن أفهم:
+
+لماذا كتبناه؟
+كيف يعمل؟
+كيف يتوسع؟
+كيف نحميه؟
+وكيف يمكن لمطور آخر فهمه وتطويره؟
+```
+
+> **أتعلم → أطبق → أخطئ → أصلح → أفهم → أبني بشكل أفضل.**
+
+---
+
+# 📊 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayyafanwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayyafanwar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
 </div>
 
+---
+
+# 🎯 هدفي
+
+أسعى إلى تطوير نفسي كمطور برمجيات قادر على:
+
+```text
+تحليل المشكلة
+      ↓
+تصميم الحل
+      ↓
+بناء النظام
+      ↓
+كتابة كود نظيف
+      ↓
+اختبار النظام
+      ↓
+تحسين الأداء
+      ↓
+إطلاق المنتج
+```
+
+وأركز بشكل خاص على بناء **أنظمة حقيقية قابلة للاستخدام والتطوير** بدل الاكتفاء بالمشاريع التعليمية البسيطة.
+
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyafanwar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
+
+### 💻 Laravel • React • Flutter • RESTful API • Tailwind CSS • MySQL
+
+<br>
+
+**"Build systems, not just code."**
+
+<br><br>
+
+⭐ إذا أعجبك أحد مشاريعي، لا تنسَ إعطاء المشروع Star
+
 </div>
-
-<br/>
-
-## 🏆 GitHub Trophies | إنجازاتي
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayyafanwar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-## 🧩 ما الذي أستطيع بناءه؟ | What I Can Build
-
-<details>
-  <summary><b>🌐 تطبيقات الويب (Web Applications)</b> <i>(اضغط للتفاصيل)</i></summary>
-  <br/>
-  <ul>
-    <li>لوحات تحكم إدارية متكاملة (Admin Dashboards)</li>
-    <li>أنظمة إدارة المحتوى والمستخدمين</li>
-    <li>أنظمة الحجز والدفع الإلكتروني</li>
-    <li>منصات التجارة الإلكترونية (E-Commerce)</li>
-  </ul>
-  <b>التقنيات:</b> <code>Laravel</code> + <code>React</code> + <code>Tailwind CSS</code> + <code>MySQL</code>
-</details>
-
-<details>
-  <summary><b>📱 تطبيقات الموبايل (Mobile Applications)</b> <i>(اضغط للتفاصيل)</i></summary>
-  <br/>
-  <ul>
-    <li>تطبيقات تعتمد على الـ API وربطها بقواعد البيانات</li>
-    <li>تطبيقات إدارة المهام، الحجز، والتفاعل مع المستخدم</li>
-    <li>تطبيقات تعمل بكفاءة عالية على Android و iOS</li>
-  </ul>
-  <b>التقنيات:</b> <code>Flutter</code> + <code>Dart</code> + <code>RESTful API</code>
-</details>
-
-<details>
-  <summary><b>🔗 واجهات برمجة التطبيقات (RESTful APIs)</b> <i>(اضغط للتفاصيل)</i></summary>
-  <br/>
-  <ul>
-    <li>تصميم APIs آمنة واحترافية</li>
-    <li>ربط الأنظمة المختلفة وتكامل الخدمات</li>
-    <li>تنفيذ سياسات المصادقة والترخيص (Authentication & Authorization)</li>
-  </ul>
-</details>
-
-<br/>
-
-## 💬 تواصل معي
-
-إذا كنت تبحث عن مطور قادر على تحويل فكرة مشروعك إلى منتج عملي وقابل للتنفيذ، فلا تتردد في التواصل معي.
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<br/>
-
-<div align="center">
-  <b>⭐️ تم تصميم هذا الملف بشغف وإبداع من قبل Sayyaf Anwar ❤️</b>
-</div># Eng-saysoft
